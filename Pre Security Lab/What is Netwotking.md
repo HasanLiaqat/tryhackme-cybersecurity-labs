@@ -28,4 +28,4 @@ I completed the first room in the Networking Fundamentals path, gaining clarity 
 ---
 
 ## Next Steps
-* I will continue with the Networking Fundamentals path, moving on to more complex topics like the Introduction to LAN.
+* I will continue with the Networking Fundamentals path, moving on to more complex topics like understanding the DNS.
